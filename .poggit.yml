@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Doma609/Doma609
+build-by-default: true
+branches:
+- main
+projects: []
+...
